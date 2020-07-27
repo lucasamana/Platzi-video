@@ -1,2 +1,3 @@
-# Platzi-video
-Maquetacion de Platzi-video
+# Frontend Developer
+Desarrollo visual de Platzi-video
+
