@@ -1,3 +1,3 @@
 # Frontend Developer
-Desarrollo visual de Platzi-video
+Project in JavaScript's school of Platzi
 
